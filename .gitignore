@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+*.user
+
+# Directories
+/.vs
+/x64
+/ProblemSolving/x64/
